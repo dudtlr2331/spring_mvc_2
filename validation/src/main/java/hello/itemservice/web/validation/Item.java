@@ -1,2 +1,4 @@
-package hello.itemservice.web.validation;public class Item {
+package hello.itemservice.web.validation;
+
+public class Item {
 }
